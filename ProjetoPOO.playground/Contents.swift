@@ -46,10 +46,10 @@ class Carro {
     }
 }
 
-// Crie uma instância de Carro
+// Instância de Carro
 let meuCarro = Carro(marca: "Toyota", modelo: "Corolla", ano: 2022)
 
-// Interaja com a instância de Carro
+// Interagindo com a instância de Carro
 meuCarro.ligar()
 meuCarro.desligar()
 

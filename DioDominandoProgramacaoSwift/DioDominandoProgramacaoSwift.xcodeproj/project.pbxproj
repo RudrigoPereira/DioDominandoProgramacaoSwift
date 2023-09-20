@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		437E360A2ABA9DEC00E9F83A /* ProjetoPOP.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ProjetoPOP.playground; path = ../ProjetoPOP.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		43F0CB992ABA0B2400797F74 /* DioDominandoProgramacaoSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DioDominandoProgramacaoSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43F0CB9C2ABA0B2400797F74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43F0CB9E2ABA0B2400797F74 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		43F0CB902ABA0B2400797F74 = {
 			isa = PBXGroup;
 			children = (
+				437E360A2ABA9DEC00E9F83A /* ProjetoPOP.playground */,
 				43F0CBB02ABA0B5E00797F74 /* ProjetoPOO.playground */,
 				43F0CB9B2ABA0B2400797F74 /* DioDominandoProgramacaoSwift */,
 				43F0CB9A2ABA0B2400797F74 /* Products */,
