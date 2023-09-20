@@ -10,5 +10,5 @@ O Desafio:
   - Controles de Fluxos
   - Coleções
   - Funções e Closures
-  - Enuns e Structs
+  - Enums e Structs
   - Concorrências
