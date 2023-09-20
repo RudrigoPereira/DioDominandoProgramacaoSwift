@@ -1,5 +1,5 @@
 # Dominando a Linguagem de Programação Swift
- Repositório criado para o desafio de código DIO Dominando a Linguagem de Programação Swift do Santander Bootcamp 2023 -  Mobile iOS com Swift
+ Repositório criado para o desafio de código da DIO, Dominando a Linguagem de Programação Swift do Santander Bootcamp 2023 -  Mobile iOS com Swift
 
 O Desafio:
 
